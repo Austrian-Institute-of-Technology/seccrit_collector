@@ -1,5 +1,5 @@
 # Checks properties and sends results to the collector (kafka)
-# Copyright (C) 2015  Philipp-Michael Radl
+# Copyright (C) 2015  Philipp-Michael Radl, Aleksander Hudic
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
